@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wijden TLILI 
 
-💻 **Computer Engineer | Cybersecurity Enthusiast | Cloud Security Researcher**  
+💻 **Computer Engineer | Cybersecurity Analyst | Cloud Security Researcher**  
 
 🔐 Passionate about building secure, scalable, and intelligent systems with a focus on **cloud security** and **vulnerability management**.  
 
@@ -8,8 +8,6 @@
 
 ## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=wijdentl-tlili&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=wijdentl-tlili&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wijdentl-tlili&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
